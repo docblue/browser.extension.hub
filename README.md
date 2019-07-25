@@ -25,6 +25,8 @@ A win32 setup program uploaded here. Download , install and take a test.
 
 已经在release目录上传了一个安装包，请下载安装试用
 
+## Contact
+docblue@163.com
 
 ## License
 
