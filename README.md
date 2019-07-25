@@ -19,6 +19,13 @@ This httpd,based cgi protocol,transport JSON-RPC message transparently between b
   添加IPC，使进程交互更高效
 
 
+## Touch it!
+
+A win32 setup program uploaded here. Download , install and take a test. 
+
+已经在release目录上传了一个安装包，请下载安装试用
+
+
 ## License
 
 This project is under Apache v2 License. See the [LICENSE](LICENSE) file for the full license text.
